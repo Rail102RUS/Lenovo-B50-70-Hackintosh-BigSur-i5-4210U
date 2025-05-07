@@ -2,7 +2,7 @@
 
 Opencore-EFI-for-Lenovo B50-70 --4210u-haswell Hackintosh
 
-OpenCore--latest
+OpenCore--latest 1.0.4
 
 BigSur_11.7.5
 
