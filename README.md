@@ -1,0 +1,1 @@
+# Lenovo-B50-70-Hackintosh-BigSur-i5-4210U
