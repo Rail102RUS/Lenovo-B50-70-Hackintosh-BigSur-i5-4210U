@@ -1,4 +1,4 @@
-# Lenovo-B50-70-Hackintosh-BigSur-i5-4210U
+# Laptop Lenovo-B50-45-Hackintosh-BigSur-i5-4210U
 
 Opencore-EFI-for-Lenovo B50-70 --4210u-haswell Hackintosh
 
