@@ -1,10 +1,10 @@
-# Laptop Lenovo-B50-45-Hackintosh-BigSur-i5-4210U
+# Laptop Lenovo-B50-70-i5-4210U
 
 Opencore-EFI-for-Lenovo B50-70 --4210u-haswell Hackintosh
 
 OpenCore--latest 1.0.4
 
-BigSur_11.7.5
+Ventura 13.7.8
 
 CPU 			    i5-4210U
 IGPU			    Intel HD4400
@@ -14,6 +14,7 @@ Wireless network adapter    Atheros AR9565
 Operate System              macOS BigSur_11.7.5 + Windows 10 Pro + Ubuntu 18.04 LTSB
 RAM: 			    2x8GB DDR3
 SSD: 			    512 Gb 2.5" SATA
+Realtek ALC233      alcid=28
 
 		BIOS SETUP
 
