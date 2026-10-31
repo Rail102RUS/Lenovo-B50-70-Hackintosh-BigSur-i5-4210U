@@ -1,9 +1,10 @@
 <img width="1366" height="768" alt="Снимок экрана 2026-10-31 в 19 57 57" src="https://github.com/user-attachments/assets/7d3a8d7e-f318-4952-94e0-7674fde6c509" />
+
 # Laptop Lenovo-B50-70-i5-4210U
 
 Opencore-EFI-for-Lenovo B50-70 --4210u-haswell Hackintosh
 
-OpenCore--latest 1.0.4
+OpenCore--latest 1.0.5
 
 Ventura 13.7.8
 
@@ -12,8 +13,8 @@ IGPU			    Intel HD4400
 GPU 			    Radeon HD 8550M
 Ethernet                    Realtek RTL8168/8111/8112 Gigabit Ethernet Controller / Asus 
 Wireless network adapter    Atheros AR9565
-Operate System              macOS BigSur_11.7.5 + Windows 10 Pro + Ubuntu 18.04 LTSB
-RAM: 			    2x8GB DDR3
+Operate System              macOS Ventura_13.7.8 + Ubuntu 22.01
+RAM: 			    2 x 8GB DDR3
 SSD: 			    512 Gb 2.5" SATA
 Realtek ALC233      alcid=28
 
