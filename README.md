@@ -1,4 +1,5 @@
-<img width="1366" height="768" alt="Снимок экрана 2026-10-31 в 19 57 57" src="https://github.com/user-attachments/assets/7d3a8d7e-f318-4952-94e0-7674fde6c509" />
+<img width="1366" height="768" alt="Снимок экрана 2026-10-31 в 20 38 43" src="https://github.com/user-attachments/assets/c652c9a7-49d0-436d-a5dc-b8d869881076" />
+
 
 ## Laptop Lenovo-B50-70-i5-4210U
 
